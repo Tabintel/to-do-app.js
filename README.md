@@ -27,8 +27,4 @@ To use the app, simply open the `index.html` file in your web browser. You can t
 
 Contributions are welcome! If you have any suggestions or improvements to the app, please feel free to open an issue or submit a pull request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 👀 Thanks for checking out the To-do App!
